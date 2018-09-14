@@ -72,6 +72,10 @@
 
 瓦达西瓦罗黑，就不看了
 
+其他
+
+海信双面屏手机A6
+
 ### 智能电视
 1. apple tv
 
@@ -178,8 +182,26 @@ Beosound Edge配备了AirPlay 2、Chromecast 2和蓝牙，并与Alexa和Google A
 
 ### 智能汽⻋
 
+大众IDVizzion自动驾驶概念车
+
+### 智能自行车
+
+自行车配件：
+  头盔，左右灯，姿态识别。
+
+  Hovding 充气头盔
+
+  车轮加灯
+  
+  无轮毂
+
+![avatar](./img/technology/bicycle.jpg)
 
 ### 睡眠相关
+
+### 电脑
+
+联想一连发布了几款Yoga系列的新品，其中最惹人注目的便是双屏设计的Yoga Book C930——采用一块电子墨水屏替代了实体键盘，以达到文字录入、书写绘画和阅读的作用。
 
 ### 空气相关
 1. 甲醛 
@@ -187,6 +209,8 @@ Beosound Edge配备了AirPlay 2、Chromecast 2和蓝牙，并与Alexa和Google A
 
 
 2. 通风系统
+新风系统
+![avatar](./img/technology/ventilation.jpeg)
 
 
 
@@ -332,6 +356,8 @@ ACC⾃适应巡航
 
 #### 5.人工智能 AI Artificial Intelligence
 领域包括机器人、语言识别、图像识别、自然语言处理和专家系统等。
+
+腾讯AI诊断帕金森
 
 #### 6.卷积神经网络（Convolutional Neural Network,CNN）
 深度学习的模型，由人类视觉原理得到灵感；
