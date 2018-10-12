@@ -18,13 +18,13 @@ class BinTreeNode{
 // template<class T>
 class bintree{
 	private:
-		BinTreeNode _root；
+		BinTreeNode _root;
 		int _size;
 	public:
 		bintree(){_root = NULL; _size = 0;}
 		~bintree();
-		int size(){return _size;}
-		bool isEmpty(){return !_root}
+		int size(){return _size;};
+		bool isEmpty(){return !_root;};
 		
 };
 
@@ -33,7 +33,7 @@ bintree::bintree(){
 }
 
 bintree::~bintree(){
-
+	
 }
 
 
